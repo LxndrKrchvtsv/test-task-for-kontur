@@ -1,0 +1,17 @@
+{
+  "name": "events_for_tracks",
+  "version": "1.0.0",
+  "description": "Events for tracks test task",
+  "main": "client.js",
+  "scripts": {
+    "test": "mocha ./client.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-mock-adapter": "^1.19.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
